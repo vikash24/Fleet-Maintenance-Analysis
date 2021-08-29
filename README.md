@@ -1,6 +1,6 @@
 # Fleet-Maintenance-Analysis
 Dataset Description:
-1. 1Usage Data: Information about how the fleets have been used in the past, as measured by the number of miles collected at certain points in time
+1. Usage Data: Information about how the fleets have been used in the past, as measured by the number of miles collected at certain points in time
 Column name       Details
 Asset             A unique value for vehicles
 Time              Time in days when usage data was collected
